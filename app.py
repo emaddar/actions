@@ -15,4 +15,4 @@ def main():
     st.write("Current date and time:", formatted_date_time)
 
 if __name__ == "__main__":
-    main()
+    main() 
