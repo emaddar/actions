@@ -1,4 +1,4 @@
-name: Streamlit App CI
+name: Pythen application test
 
 on:
   push:
