@@ -1,3 +1,3 @@
 def calculate_sum(elements):
     # 
-    return sum(elements)+1
+    return sum(elements)
