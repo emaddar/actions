@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '* * * * *' # Every minute
+    - cron: '*/30 * * * * *'  # Every minute
 
 jobs:
   build:
