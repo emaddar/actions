@@ -3,9 +3,6 @@
 from functions import calculate_sum
 import pytest
 
-def calculate_sum(elements):
-    return sum(elements)
-
 def test_calculate_sum_empty_list():
     assert calculate_sum([]) == 0
 
